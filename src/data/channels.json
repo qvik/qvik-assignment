@@ -1,0 +1,44 @@
+{
+     "channels": [
+          {
+               "id": 1,
+               "channel": "fashion",
+               "imageUrl": ""
+          },
+          {
+               "id": 2,
+               "channel": "science",
+               "imageUrl": ""
+          },
+          {
+               "id": 3,
+               "channel": "auto",
+               "imageUrl": ""
+          },
+          {
+               "id": 4,
+               "channel": "technology",
+               "imageUrl": ""
+          },
+          {
+               "id": 5,
+               "channel": "entertainment",
+               "imageUrl": ""
+          },
+          {
+               "id": 6,
+               "channel": "environment",
+               "imageUrl": ""
+          },
+          {
+               "id": 7,
+               "channel": "finances",
+               "imageUrl": ""
+          },
+          {
+               "id": 8,
+               "channel": "travel",
+               "imageUrl": ""
+          }
+     ]
+}

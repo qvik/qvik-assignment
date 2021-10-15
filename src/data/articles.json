@@ -1,0 +1,39 @@
+{
+    "channel": {
+        "id":2,
+        "channel":"Science",
+        "followers":"234K followers",
+        "articles": [
+            {
+                "id": 1,
+                "title": "Artic sea ice extend hits record low for winter maximum",
+                "source": "CNN",
+                "date": "03.04.2015"
+            },
+            {
+                "id": 2,
+                "title": "Archeologists discovered lost city in Honduran jungle",
+                "source": "CNN",
+                "date": "03.04.2015"
+            },
+            {
+                "id": 3,
+                "title": "The balloons that could fly tourists to the edge of space",
+                "source": "CNN",
+                "date": "01.04.2015"
+            },
+            {
+                "id": 4,
+                "title": "In the Prawn Nebula, a Nursery for Newborn Stars",
+                "source": "The New York Times",
+                "date": "30.03.2015"
+            },
+            {
+                "id": 5,
+                "title": "What will the battleship of the Future look like?",
+                "source": "Popular Science",
+                "date": "01.04.2015"
+            }
+        ]
+    }
+}
