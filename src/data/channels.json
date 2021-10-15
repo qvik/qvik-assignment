@@ -3,42 +3,42 @@
           {
                "id": 1,
                "channel": "fashion",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Fashion.png"
           },
           {
                "id": 2,
                "channel": "science",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Science.png"
           },
           {
                "id": 3,
                "channel": "auto",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Auto.png"
           },
           {
                "id": 4,
                "channel": "technology",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Technology.png"
           },
           {
                "id": 5,
                "channel": "entertainment",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Entertainment.png"
           },
           {
                "id": 6,
                "channel": "environment",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Environment.png"
           },
           {
                "id": 7,
                "channel": "finances",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Finance.png"
           },
           {
                "id": 8,
                "channel": "travel",
-               "imageUrl": ""
+               "imageUrl": "/assets/Thumbnail_channel_Fashion.png"
           }
      ]
 }
