@@ -3,6 +3,7 @@
         "id":2,
         "channel":"Science",
         "followers":"234K followers",
+        "imageUrl":"/assets/Background_channelheader_Science.png",
         "articles": [
             {
                 "id": 1,
