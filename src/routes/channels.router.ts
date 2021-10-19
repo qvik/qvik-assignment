@@ -12,23 +12,31 @@ channelsRouter.get('/', async(_req: Request, res: Response) => {
         res.status(200).send(channels.channels)
     } catch(error) {
         res.status(500).send(error)
-
     }
 })
 
 channelsRouter.get('/:channelId', async(req: Request, res: Response) => {
     const id = req?.params?.channelId
     try {
-        res.status(200).send(articles.channel)
+        if(id === 2) {
+            res.status(200).send(articles.channel)
+        } else {
+            res.status(404).send("Information not available")
+        }
     } catch(error) {
         res.status(404).send(error)
     }
 })
 
 channelsRouter.get('/:channelId/:articleId', async(req: Request, res: Response) => {
-    const id = req?.params?.articleId
+    const channelId = req?.params?.channelId
+    const articleId = req?.params?.articleId
     try {
-        res.status(200).send(article.article)
+        if(channelId === 2 && articleId === 1) {
+            res.status(200).send(article.article)
+        } else {
+            res.status(404).send("Information not available")
+        }
     } catch(error) {
         res.status(404).send(error)
     }
