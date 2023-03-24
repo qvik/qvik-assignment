@@ -17,7 +17,6 @@
   },
   "scripts": {
     "build": "tsc",
-    "prestart": "npm run build",
     "start": "ts-node-dev --respawn --transpile-only src/index.ts"
   }
 }
